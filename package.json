@@ -44,13 +44,5 @@
   },
   "engines": {
     "node": ">=18.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/oaiao/blackswan-data-collection-service.git"
-  },
-  "bugs": {
-    "url": "https://github.com/oaiao/blackswan-data-collection-service/issues"
-  },
-  "homepage": "https://github.com/oaiao/blackswan-data-collection-service#readme"
+  }
 }
